@@ -1,6 +1,6 @@
 import { useState, useContext, useEffect } from "react"
 import { assets } from "../assets/assets"
-import { ShopContext } from "../context/shopContext";
+import { ShopContext } from "../context/ShopContext";
 import ProductTile from "../components/ProductTile";
 import Spinner from "../components/Spinner";
 
