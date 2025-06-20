@@ -13,7 +13,7 @@ import Navbar from './components/Navbars'
 import Footer from './components/Footer'
 import SearchBar from './components/SearchBar'
 import MyProfile from './pages/MyProfile'
-import Verify from './pages/verify'
+import Verify from './pages/Verify'
 import { ToastContainer, toast } from 'react-toastify';
 
 
