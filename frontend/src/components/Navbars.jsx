@@ -1,7 +1,7 @@
-import React, {useState, useContext} from 'react'
+import {useState, useContext} from 'react'
 import {assets} from "../assets/assets"
 import { Link, NavLink } from 'react-router-dom'
-import { ShopContext } from '../context/shopContext'
+import { ShopContext } from '../context/ShopContext'
 
 const Navbars = () => {
   const {setShowSearch, getCartCount, navigate, setToken, setCartItems, token} = useContext(ShopContext);

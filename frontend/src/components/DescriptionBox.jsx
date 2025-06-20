@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Descriptor from "./Descriptor";
 import ReviewBox from "./ReviewBox";
 

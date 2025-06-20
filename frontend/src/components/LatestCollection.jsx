@@ -1,6 +1,6 @@
-import React, {useContext, useState, useEffect} from 'react'
+import {useContext, useState, useEffect} from 'react'
 import Title from './Title';
-import { ShopContext } from '../context/shopContext';
+import { ShopContext } from '../context/ShopContext';
 import ProductTile from './ProductTile';
 import Spinner from './Spinner.jsx';
 
